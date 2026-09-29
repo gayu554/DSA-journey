@@ -18,3 +18,6 @@ class Secondlargestelement{
         System.out.println("Second largest element is: "+secondlargest);
     }
 }
+
+// Time: O(n) — array is traversed once
+// Space: O(1) — only two variables are used.
