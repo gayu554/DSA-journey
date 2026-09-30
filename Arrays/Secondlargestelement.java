@@ -20,4 +20,8 @@ class Secondlargestelement{
 }
 
 // Time: O(n) — array is traversed once
+<<<<<<< HEAD
 // Space: O(1) — only two variables are used.
+=======
+// Space: O(1) — only two variables are used.
+>>>>>>> 942d67b (Solve move all zeroes to end)
